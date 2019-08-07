@@ -1,0 +1,39 @@
+body { background-color: #efeee7;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       color: #333333;
+       margin: 0;
+       padding: 0;
+     }
+
+
+
+head{ background-color: #333333;
+      }
+
+
+h1 { color: #eee;
+     font-size: 28px;
+     padding: XXXXXXX;
+     marginXXXXX
+
+
+}
+
+h2 {font-size: 24px;
+
+}
+
+.container{ width: 1024px;
+            margin: 0 auto;
+}
+
+.bio-image{ width: 200px;
+            
+
+}
+
+ul {
+    text-align: center;
+    margin:auto;
+    list-style-position: inside;
+}
